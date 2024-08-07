@@ -8,7 +8,7 @@
   "dependencies": {
     "petite-vue": "^0.3.0",
     "typescript": "^4.3.2",
-    "vite": "^2.5.10"
+    "vite": "^2.9.18"
   },
   "devDependencies": {
     "@vue/reactivity": "^3.2.16",
